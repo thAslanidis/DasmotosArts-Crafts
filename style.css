@@ -6,7 +6,8 @@ header {
     text-align:center;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
 }
-.brushes{
+
+#brushes{
     font-family: Helvetica;
     font-size:32px;
     font-weight: bold;
@@ -14,14 +15,14 @@ header {
     background-color: mediumspringgreen;
 }
 
-.frames{
+#frames{
     font-family: Helvetica;
     font-size:32px;
     font-weight: bold;
     color:white;
     background-color:lightcoral;
 }
-.paint{
+#paint{
     font-family: Helvetica;
     font-size:32px;
     font-weight: bold;
@@ -32,4 +33,7 @@ header {
     font-family:Helvetica;
     font-weight: bold;
     color:blue;    
+}
+body{
+    font-family:Helvetica ;
 }
